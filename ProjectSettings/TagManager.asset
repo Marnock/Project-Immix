@@ -10,6 +10,7 @@ TagManager:
   - Enemy
   - Water
   - Arrow
+  - Crosshair
   layers:
   - Default
   - TransparentFX
@@ -30,7 +31,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Player
   - Animal
   - 
   - 
